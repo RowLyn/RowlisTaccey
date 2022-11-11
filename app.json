@@ -1,6 +1,7 @@
 {
   "name": "Telegram Mention TaggerBot",
   "logo":"https://telegra.ph/file/dfa517fd00b6ca5f7ac9.jpg",
+  "repository":"https://github.com/RowLyn/RowlisTaccey",
   "description": "User tagger bot sıze ucretsız uyelerınızı etıketleyen bı bottur.",
   "env": {
     "BOT_TOKEN": {
